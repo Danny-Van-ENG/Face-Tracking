@@ -3,6 +3,5 @@
 - Face detection and tracking in real-time
 - Plots the face with 468 points
 - Records data of all 468 points
-
 - Uses only CPU
 - 30 FPS with draw points and record landmark data enabled
