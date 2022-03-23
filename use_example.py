@@ -21,6 +21,6 @@ while cap.isOpened():
     cv2.putText(image, f'FPS: {int(fps)}', (20, 15),
                 cv2.FONT_HERSHEY_PLAIN, 1, (0, 255, 0), 2)
 
-    # flip image for selfie-view
+    # Flip image for selfie-view
     cv2.imshow("Image", cv2.flip(image, 1))
     cv2.waitKey(1)
