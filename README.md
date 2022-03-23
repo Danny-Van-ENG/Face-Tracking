@@ -1,6 +1,6 @@
 # Functional Description
 - Can be used with live video capture through video input device, video, or image
-- Face detection and tracking
+- Face detection and tracking in real-time
 - Plots the face with 468 points
 - Records data of all 468 points
 
